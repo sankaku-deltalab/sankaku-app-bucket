@@ -1,5 +1,9 @@
 # sankaku-app-bucket changelog
 
+## v1.1.0
+- Add app
+    - UnPnPCJ
+
 ## v1.0.0
 - Initial release
 - Add apps
