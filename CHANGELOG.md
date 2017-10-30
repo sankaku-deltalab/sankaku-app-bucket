@@ -1,5 +1,17 @@
 # sankaku-app-bucket changelog
 
+## v1.2.1
+- Update
+    - AzPainter2
+    - Open Broadcaster Software
+    - Shinkirou
+    - UnPnPCJ
+    - virtual-desktop-enhancer
+- Add note about shortcut modifying
+    - AzPainter2
+    - Open Broadcaster Software
+    - Rapture
+
 ## v1.2.0
 - Use shortcut for
     - AzPainter2
