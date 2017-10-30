@@ -12,5 +12,6 @@
     ],
     "persist": [
         "rapture.ini"
-    ]
+    ],
+    "notes": "You need to set the working directory of the shortcut in start menu to '$dir'"
 }
