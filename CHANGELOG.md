@@ -9,5 +9,5 @@
 - Add apps
     - AzPainter2
     - Open Broadcaster Software
-    - 蜃気楼 (Shinkirou)
+    - Shinkirou
     - virtual-desktop-enhancer
