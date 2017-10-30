@@ -11,5 +11,11 @@
             "extract_dir": "64bit"
         }
     },
-    "bin": "OBS.exe"
+    "bin": "OBS.exe",
+    "shortcuts": [
+        [
+            "OBS.exe",
+            "Open Broadcaster Software"
+        ]
+    ]
 }
