@@ -16,6 +16,7 @@
 - Use shortcut for
     - AzPainter2
     - Open Broadcaster Software
+    - Rapture
     - Shinkirou
     - UnPnPCJ
     - virtual-desktop-enhancer
@@ -29,5 +30,6 @@
 - Add apps
     - AzPainter2
     - Open Broadcaster Software
+    - Rapture
     - Shinkirou
     - virtual-desktop-enhancer
