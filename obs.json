@@ -1,21 +1,27 @@
 {
     "homepage": "https://github.com/jp9000/OBS",
-    "version": "0.659b",
-    "url": "https://github.com/jp9000/OBS/releases/download/0.659b/OBS_0_659b.zip",
-    "hash": "ab357605684a0b2387453e451d202304610669baa546ca5d8a6a5fc18a5f17e2",
+    "version": "20.1.1",
+    "url": "https://github.com/jp9000/obs-studio/releases/download/20.1.1/OBS-Studio-20.1.1-Full.zip",
+    "hash": "6e76f25f2ada3bae4e5fee4a6d3fe0297704f908f9731d8269b5227574207558",
     "architecture": {
         "32bit": {
-            "extract_dir": "32bit"
+            "bin": "bin/32bit/obs32.exe",
+            "shortcuts": [
+                [
+                    "bin/32bit/obs32.exe",
+                    "Open Broadcaster Software"
+                ]
+            ]
         },
         "64bit": {
-            "extract_dir": "64bit"
+            "bin": "bin/64bit/obs64.exe",
+            "shortcuts": [
+                [
+                    "bin/64bit/obs64.exe",
+                    "Open Broadcaster Software"
+                ]
+            ]
         }
     },
-    "bin": "OBS.exe",
-    "shortcuts": [
-        [
-            "OBS.exe",
-            "Open Broadcaster Software"
-        ]
-    ]
+    "notes": "You need to set the working directory of the shortcut in start menu to '$dir'"
 }
