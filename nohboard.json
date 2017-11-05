@@ -1,0 +1,16 @@
+{
+    "homepage": "https://github.com/ThoNohT/NohBoard",
+    "version": "1.0.0",
+    "url": "https://github.com/ThoNohT/NohBoard/releases/download/v1.0.0/NohBoard-ReWrite-v1.0.0.zip",
+    "hash": "819b0e3de2ca9503e1705118402b8a31ef52f5d6bdb42f5d82926591533805bb",
+    "bin": "NohBoard.exe",
+    "shortcuts": [
+        [
+            "NohBoard.exe",
+            "NohBoard"
+        ]
+    ],
+    "persist": [
+        "NohBoard.json"
+    ]
+}
