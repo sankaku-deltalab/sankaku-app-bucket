@@ -1,5 +1,9 @@
 # sankaku-app-bucket changelog
 
+## v1.3.0
+- Add app
+    - NohBoard
+
 ## v1.2.1
 - Update
     - AzPainter2
