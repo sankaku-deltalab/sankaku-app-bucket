@@ -1,5 +1,9 @@
 # sankaku-app-bucket changelog
 
+## v1.4.0
+- Add app
+    - TrayVolume
+
 ## v1.3.0
 - Add app
     - NohBoard
