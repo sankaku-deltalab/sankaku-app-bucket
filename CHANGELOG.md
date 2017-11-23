@@ -1,5 +1,9 @@
 # sankaku-app-bucket changelog
 
+## v1.5.0
+- Add app
+    - BunBackup
+
 ## v1.4.0
 - Add app
     - TrayVolume
