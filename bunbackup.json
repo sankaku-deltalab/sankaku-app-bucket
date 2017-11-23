@@ -1,0 +1,25 @@
+{
+    "homepage": "http://nagatsuki.la.coocan.jp/bunbackup/index.htm",
+    "version": "5.0",
+    "bin": "BunBackup.exe",
+    "architecture": {
+        "32bit": {
+            "url": "http://nagatsuki.la.coocan.jp/bunbackup/download/BunBackup500.zip",
+            "hash": "C4AAB1E95F1888DB277E09777F18DAC5C62352241BBBBE5EECF6FB6068870033"
+        },
+        "64bit": {
+            "url": "http://nagatsuki.la.coocan.jp/bunbackup/64bit/BunBackupS500.zip",
+            "hash": "9F6619D76CA70447FCABD40D69722348985D0DB53DC5FBD81276D99BF5B357EE"
+        }
+    },
+    "shortcuts": [
+        [
+            "BunBackup.exe",
+            "BunBackup"
+        ]
+    ],
+    "persist": [
+        "BunBackup.ini",
+        "BunBackup.env"
+    ]
+}
